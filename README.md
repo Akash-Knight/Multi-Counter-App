@@ -27,5 +27,5 @@ A simple React application that demonstrates key React concepts such as state ma
 - JavaScript (ES6+)
 - Tailwind CSS (for styling)
 
-## 📁 Project Structure
+
 
